@@ -10,5 +10,6 @@ It supports both standard and standalone full-body tracking, but can also be pla
 **Watch the Video on YouTube:** [VRush Game - Promotional Video](https://youtu.be/Nmwha2BYevU)
 
 **THIS PROJECT IS PRIVATE. CONTACT ME FOR ANY INFO IF INTERESTED!**
+
 **Website**: [neutronixverse.com](https://neutronixverse.com/)
 **Linkedin**: https://www.linkedin.com/in/roberto-lo-duca/
